@@ -1,7 +1,7 @@
 var swiper = new Swiper(".mySwiper", {
 
     loop: true,
-    autoplay: true,
+    autoplay: false,
     autoplayTimeout: 1000,
     autoplayHoverPause: true,
 
